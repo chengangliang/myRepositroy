@@ -14,6 +14,8 @@ public class Users implements Serializable {
 
     private Date birthday;
 
+    private Date birthday;
+
     private static final long serialVersionUID = 1L;
 
     public Integer getId() {
